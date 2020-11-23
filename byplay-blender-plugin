@@ -1,0 +1,7 @@
+{
+  "id": "byplay-blender",
+  "humanName": "Byplay Blender plugin",
+  "description": "-",
+  "buildNumber": 1001,
+  "downloadUrl": "https://github.com/byplay-io/{PLUGIN_ID}/releases/download/v{PLUGIN_BUILD_NUMBER}/package.zip"
+}
