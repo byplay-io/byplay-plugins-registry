@@ -2,6 +2,6 @@
   "id": "byplay-c4d",
   "humanName": "Byplay C4D plugin",
   "description": "-",
-  "buildNumber": 1012,
+  "buildNumber": 1013,
   "downloadUrl": "https://github.com/byplay-io/{PLUGIN_ID}/releases/download/v{PLUGIN_BUILD_NUMBER}/package.zip"
 }
